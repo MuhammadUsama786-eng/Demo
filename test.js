@@ -22,7 +22,7 @@ describe( "Test1", () => {
 	});
 
 	it("Is returning 6 when multiplying 2 * 3", () => {
-	assert.equal(2*3, 6);
+	assert.equal(2*3, 6); 
 	});
 });
 
